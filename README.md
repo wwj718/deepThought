@@ -3,7 +3,12 @@
 
 >  The answer to life, universe and everything is 42   --deepThought
 
-
+# 目标
+*  具有从真实对话或语料库张学习的能力
+ *  有泛化能力
+*  能从自然语言中推测用户意图
+*  针对意图，给予恰当回答（回调任务模块）
+*  构造通用的解析工具，将自然语言解析为结构化信息
 
 # 核心概念
 *  意图（intent）
