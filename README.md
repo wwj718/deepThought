@@ -34,7 +34,10 @@
  *  助理型
    *  领域知识
    *  搜索
-
+*  rich output
+ *  不要放弃超链（支持富文本输出）
+  * 采用ipython交互做实验
+   *  `from IPython.display import HTML, Image, YouTubeVideo`
 
 # 涉及知识
 *  自然语言处理（NLP）
