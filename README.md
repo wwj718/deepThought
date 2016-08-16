@@ -17,6 +17,8 @@
   *  实体的模式 
 *  require请求补齐
 *  上下文环境 (context)
+ *  session
+
 
 # 设计
 *  插件化
@@ -53,7 +55,7 @@
 *  结构化的信息可以作为函数的变量，以此来对接业务系统（database/RESTful）
 
 ### intent的促发条件
-*  intent的促发可以有依赖条件（类比django中的@require）,由此进一步向用户所求信息，以不足促发条件
+*  intent的促发可以有依赖条件（类比django中的@require）,由此进一步向用户索求信息，以不足促发条件
 
 # 语料库
 *  电影字幕
