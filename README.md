@@ -76,3 +76,17 @@
 *  对接微信，作为自动回复机器人
 *  运行在树莓派上（长期稳定）
 *  文字 -> 语音
+
+
+# 衍生计划
+## openBot
+*  源码开放/服务开放/语料库开放
+*  允许接入到开发者自己的应用
+ *  http请求
+ *  sdk
+*  作为RESTful服务
+ *  使用[django-rest-framework](https://github.com/tomchristie/django-rest-framework)作为框架，可以快速构建api
+  *  丰富免费午餐
+   *  oauth2/access token
+   *  访问（次数）控制
+  *  后期可能需要考虑效率问题
