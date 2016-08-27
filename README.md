@@ -58,6 +58,7 @@
  *  模式匹配问题（lisp）
 *  结构化的信息可以作为功能函数（action）的变量，以此来对接业务系统（database/RESTful）
  *  特征/意图到action的过程，通过学习和训练完成（神经网络/机器学习）
+   *  action可以对接到既有业务/系统（webapp/database/api）
 
 ### intent的促发条件
 *  intent的促发可以有依赖条件（类比django中的@require）,由此进一步向用户索求信息，以不足促发条件
