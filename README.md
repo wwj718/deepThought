@@ -86,7 +86,7 @@
  *  sdk
 *  作为RESTful服务
  *  使用[django-rest-framework](https://github.com/tomchristie/django-rest-framework)作为框架，可以快速构建api
-  *  丰富免费午餐
-   *  oauth2/access token
-   *  访问（次数）控制
+  *  丰富的免费午餐
+    *  oauth2/access token
+    *  访问（次数）控制
   *  后期可能需要考虑效率问题
